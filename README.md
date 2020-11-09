@@ -2,7 +2,7 @@
 A repository containing the framework for a democratic revision of a labor organization
 
 ## What is this?
-This repository is meant to represent the governance structure of an organization whose primary function is to participate in economic activity. That is, this repository defines the governance structure of a company with workers and products and revenues and profits and all of the things that come with running a company. This repository currently represents a theoretical structure for an economic organization that does not currently exist.
+This repository is meant to represent the governance structure of an organization whose primary function is to participate in economic activity. That is, this repository defines the governance structure of a company with workers and products and revenues and profits and all of the things that come with running a company. This repository currently represents a theoretical structure for an economic organization that does not currently exist. The organization is designed primarily to organize the labor of technology professionals in a remote-first setting, but its principles and in some cases its techniques could be adapted for use in other types of organizations.
 
 ## Okay, why?
 This document attempts to make a sound argument that the current state of labor causes substantial unnecessary suffering to individual laborers and robs them of the fruits of their labor to provide for the benefit of the small percentage of people who own capital. Those who own capital repeatedly and without hesitation make large sacrifices to laborers' personal freedoms, health, and well-being for comparatively miniscule additions to capital owners' personal fortunes. The current state of affairs is unacceptable and it is the goal of this repository to make an attempt to demonstrate what a reorganization of labor control and profit-sharing might look like.
@@ -21,3 +21,6 @@ Employees have very little control over how their labor is used. An ideological 
 
 ## How do we fix it?
 Workers should have democratic control over the organizations they participate in. No individual should be able to substantially control the output of entire groups of people. Much has been said about how to restructure governments and nations to restore this power to workers. This document has a much more modest goal: to provide a realistic option for the organization of labor under the current legal and economic climate. Through this, the hope is that a greater share of economic organizations will be controlled by laborers in a democratic fashion, and that laborers will have more freedom to choose democratically-styled organizations over authoritarian ones and control the results of their own labor. While unlikely, it is hoped that in the far future democratic economic organizations become the norm, and very few individuals will be railroaded into an authoritarian economic organization as is commonplace today.
+
+## How do I use this repo?
+`constitution.md` contains the core of the concepts of the organization. Start by reading that. Everything else is subordinate to the text of the constitution file.
